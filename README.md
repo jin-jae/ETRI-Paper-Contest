@@ -26,9 +26,11 @@
 |  | Environment |
 | :---: | :---: |
 | OS | ubuntu18.04 |
-| Python | 3.x |
+| Python | 3.8.19 |
 
-(추후 requirements 추가 예정)
+requirements는 다음과 같이 설치할 수 있습니다:
+`pip install -r src/mvts_transformer/failsafe_requirements.txt`
+`pip install scikit_learn`
 
 ### 📖 실행 방법
 
@@ -54,5 +56,9 @@
 `README_2020.txt`, `user*.7z`, `user_*_2020.csv` 파일은 활용 데이터 중 Train을 통해, \
 `휴먼이해2024.zip` 파일은 Validation / Test를 통해 구할 수 있습니다.
 
-#### 전처리 진행
-(추후 추가 예정)
+#### 모델 실행 방법
+모델은 다음 두 가지를 활용하여 예측하였습니다.
+- mvts_transformer : `./src/mvts_transformer/mvts_transformer_final.ipynb`
+- Multi Output Classifier : `./src/multi_output_classifier.ipynb`
+
+위 두 `ipynb` 파일을 각각 실행한 이후, `./src/make_final.py`를 이용하여 두 실행 결과를 합하면 됩니다.
