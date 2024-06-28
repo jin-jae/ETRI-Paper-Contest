@@ -1,3 +1,14 @@
+# Python
+__pycache__
+
 # Dataset
 data_raw
 data
+data_preprocessed_ts
+data_preprocessed_moc
+
+# model output
+output
+
+# (for internal management)
+etc
