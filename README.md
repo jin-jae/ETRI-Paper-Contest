@@ -12,7 +12,7 @@
 | :---: | :---: | :---: | :---: |
 | 김진재 | 마민정 | 조근희 | 최은지 |
 | [Github](https://github.com/jin-jae) | [Github](https://github.com/maj34) | [Github](https://github.com/Chokeunhee) | [Github](https://github.com/eunjeechoi) |
-| [E-mail](mailto:jinjae.dev@gmail.com) | [E-mail](mailto:minjeong_ma@korea.ac.kr) | [E-mail] | [E-mail] |
+| [E-mail](mailto:jinjae.dev@gmail.com) | [E-mail](mailto:minjeong_ma@korea.ac.kr) | [E-mail] | eun09ji@korea.ac.kr |
 
 
 ## 데이터 및 코드 설명
