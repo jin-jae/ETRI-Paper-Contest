@@ -1,7 +1,4 @@
-# (TODO: 논문 제목 추후 추가)
-
-
-## 제3회 ETRI 휴먼이해 인공지능 논문경진대회
+# 제3회 ETRI 휴먼이해 인공지능 논문경진대회
 
 ### ❓ 대회 소개
 - 기간: 2024.04 ~ 2024.06
@@ -12,7 +9,7 @@
 | :---: | :---: | :---: | :---: |
 | 김진재 | 마민정 | 조근희 | 최은지 |
 | [Github](https://github.com/jin-jae) | [Github](https://github.com/maj34) | [Github](https://github.com/Chokeunhee) | [Github](https://github.com/eunjeechoi) |
-| [E-mail](mailto:jinjae.dev@gmail.com) | [E-mail](mailto:minjeong_ma@korea.ac.kr) | [E-mail] | [E-mail](mailto:eun09ji@korea.ac.kr) |
+| [E-mail](mailto:jinjae.dev@gmail.com) | [E-mail](mailto:minjeong_ma@korea.ac.kr) | [E-mail](mailto:keunheecho9952@gmail.com) | [E-mail](mailto:eun09ji@korea.ac.kr) |
 
 
 ## 데이터 및 코드 설명
@@ -22,14 +19,14 @@
 - Validation / Test: [비공개 데이터셋]
 
 ### 💻 구동 환경
-(TODO: 실험 환경과 동일한 Dockerfile을 추가하였습니다.)
+실험 환경과 동일한 Dockerfile을 추가하였습니다.
 |  | Environment |
 | :---: | :---: |
 | OS | ubuntu18.04 |
 | Python | 3.8.19 |
 
-requirements는 다음과 같이 설치할 수 있습니다:
-`pip install -r src/mvts_transformer/failsafe_requirements.txt`
+requirements는 다음과 같이 설치할 수 있습니다:  
+`pip install -r src/mvts_transformer/failsafe_requirements.txt`  
 `pip install scikit_learn`
 
 ### 📖 실행 방법
